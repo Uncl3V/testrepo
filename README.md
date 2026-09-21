@@ -1,2 +1,2 @@
 # testrepo
-Learningto use git
+Learning to use git
